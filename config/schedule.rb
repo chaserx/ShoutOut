@@ -20,5 +20,5 @@
 # Learn more: http://github.com/javan/whenever
 
 every '59 23 31 12 *' do
-  command "ruby /Users/chasesouthard/Projects/ShoutOut/NewYearShoutOut.rb"
+  command "ruby /Users/chasesouthard/Projects/ShoutOut/shoutouts/NewYearShoutOut.rb"
 end
